@@ -1,0 +1,11 @@
+model/
+*.gguf
+submission.json
+audit.json
+verdict.json
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
